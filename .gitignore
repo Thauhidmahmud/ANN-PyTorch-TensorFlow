@@ -38,6 +38,7 @@ pip-delete-this-directory.txt
 
 # Unit test / coverage reports
 htmlcov/
+tensorflow/diabetes_large_dataset.csv
 .tox/
 .nox/
 .coverage
